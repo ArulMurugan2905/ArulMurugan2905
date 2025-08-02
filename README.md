@@ -27,7 +27,7 @@ VS Code | Postman | Linux
 
 ###  **Featured Projects**
 
-####  [NSAP Eligibility Prediction System](https://github.com/YOUR_USERNAME/nsap-eligibility-prediction)
+####  [NSAP Eligibility Prediction System](https://github.com/ArulMurugan2905/nsap-eligibility-prediction)
 **AI-powered welfare scheme classification for Government of India**
 -  **98.4% accuracy** using Random Forest algorithm
 -  Reduced processing time from weeks to seconds
